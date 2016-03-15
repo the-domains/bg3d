@@ -1,19 +1,4 @@
-name: bg3d
-favicon: null
-layout_spectrum: 0.390007242327556
-typography_spectrum: 0.6982523291371763
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#FF6700'
@@ -23,6 +8,11 @@ color:
     - '#004E98'
   brandStrength: 0.08823322667740285
   lightness: 0.3542152480222285
-  saturation: 0.36268893885426223
   rhythmicContrast: 0.4629182193893939
+  saturation: 0.36268893885426223
+cta: {}
+layout_spectrum: 1
+name: bg3d
+opengraph: {}
 purpose: []
+typography_spectrum: 0.655405
